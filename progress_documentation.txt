@@ -1,0 +1,44 @@
+Project start date : May 5
+
+May 5 : (Works done) 
+Disc with kumar reddy
+Got kumar's plivo account (with balance and phone number)
+Making call (text to speech) and message working
+Tried to get direct call workingcreated sipo endpionts and applications in plivo -> no success
+used zoiper -> no success
+trying with twilio
+twilio demo (webrtc call from twilioi website to my phone) is awesome
+created twiolio trial account and phone number (they are leading everystep to my need)
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+silly :
+what is the diff betn software avaya and this?
+voipvoip.com
+
+keywords:
+webrtc
+sip
+web sdk, android ios sdk
+softphone
+
+book marks :
+see bookmark folder plivo
+https://www.twilio.com/webrtc (this has an awesome demonstration of direct call from site and explanation)
+
+
+old sms :
+smpp
+playsms
+go through the whatsapp with kumar for more providers and stuff
